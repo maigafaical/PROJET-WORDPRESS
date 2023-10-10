@@ -1,0 +1,11 @@
+1-Idientifiants de l'admin:
+
+-username: faicalmaiga
+-email: faicalmaiga78@gmail.com
+-password: Faical54@
+
+2-Identifiants de l'éditeurt:
+
+-username: editeur
+-email: editeur54@gmail.com
+-password: editeur54@
